@@ -1,0 +1,5 @@
+tkinter   
+PIL
+sqlite3
+csv
+pandas
