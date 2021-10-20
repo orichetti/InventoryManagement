@@ -39,7 +39,7 @@ testDatabaseConnection(DATABASE)
 
 BCOLOR = '#4682B4' # Button Color for Main Root
 
-
+#Begin instantiating classes.
 frame3 = Frame3(root)
 #w = frame3.getFrame3()
 treeviews = Treeview(frame3.getFrame3())
